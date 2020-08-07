@@ -63,16 +63,16 @@ export default class Products extends Component {
             <Col
               md="4"
               style={{
-                backgroundImage: `url(${heroDeals})`,
+                backgroundImage: `url(${heroArm})`,
                 height: 500,
               }}
             >
               <div className="heroProducts">
                 <h1 style={{ textShadow: "3px 3px #000000", color: "#ffff" }}>
-                  DAILY DEALS
+                  ARM SHIELDS™
                 </h1>
-                <h5 style={{ textShadow: "2px 2px #000000", color: "#ffff" }}>
-                  Save Big on SA Apparel Packs
+                <h5 style={{ textShadow: "3px 3px #000000", color: "#ffff" }}>
+                  Lightweight, Breathable, UPF 30
                 </h5>
                 <Button
                   style={{
@@ -114,7 +114,38 @@ export default class Products extends Component {
           <br />
           <Row>
             <Col
-              md="4"
+              md="12"
+              style={{
+                backgroundImage: `url(${heroDeals})`,
+                backgroundRepeat: "no-repeat",
+                backgroundSize: "cover",
+                backgroundPosition: "top",
+                height: 700,
+              }}
+            >
+              <div className="heroProducts">
+                <h1 style={{ textShadow: "3px 3px #000000", color: "#ffff" }}>
+                  DAILY DEALS
+                </h1>
+                <h5 style={{ textShadow: "2px 2px #000000", color: "#ffff" }}>
+                  Save Big on SA Apparel Packs
+                </h5>
+                <Button
+                  style={{
+                    backgroundColor: "#30b7d4",
+                    textShadow: "1px 1px #000000",
+                    fontSize: 25,
+                  }}
+                >
+                  SHOP NOW
+                </Button>
+              </div>
+            </Col>
+          </Row>
+          <br />
+          <Row>
+            <Col
+              md="8"
               style={{
                 backgroundImage: `url(${heroHeadWear})`,
                 height: 500,
@@ -141,41 +172,19 @@ export default class Products extends Component {
             <Col
               md="4"
               style={{
-                backgroundImage: `url(${heroApparel})`,
+                backgroundImage: `url(${rings})`,
+                backgroundRepeat: "no-repeat",
+                backgroundSize: "cover",
+                backgroundPosition: "center",
                 height: 500,
               }}
             >
               <div className="heroProducts">
                 <h1 style={{ textShadow: "3px 3px #000000", color: "#ffff" }}>
-                  APPAREL
+                  SILICONE RINGS
                 </h1>
                 <h5 style={{ textShadow: "2px 2px #000000", color: "#ffff" }}>
-                  Complete The Look
-                </h5>
-                <Button
-                  style={{
-                    backgroundColor: "#30b7d4",
-                    textShadow: "1px 1px #000000",
-                    fontSize: 25,
-                  }}
-                >
-                  SHOP NOW
-                </Button>
-              </div>
-            </Col>
-            <Col
-              md="4"
-              style={{
-                backgroundImage: `url(${heroArm})`,
-                height: 500,
-              }}
-            >
-              <div className="heroProducts">
-                <h1 style={{ textShadow: "3px 3px #000000", color: "#ffff" }}>
-                  ARM SHIELDS™
-                </h1>
-                <h5 style={{ textShadow: "3px 3px #000000", color: "#ffff" }}>
-                  Lightweight, Breathable, UPF 30
+                  Comfortable & Safe Alternative
                 </h5>
                 <Button
                   style={{
@@ -194,19 +203,19 @@ export default class Products extends Component {
             <Col
               md="12"
               style={{
-                backgroundImage: `url(${rings})`,
+                backgroundImage: `url(${heroApparel})`,
                 backgroundRepeat: "no-repeat",
                 backgroundSize: "cover",
-                backgroundPosition: "center",
-                height: 500,
+                backgroundPosition: "top",
+                height: 700,
               }}
             >
               <div className="heroProducts">
                 <h1 style={{ textShadow: "3px 3px #000000", color: "#ffff" }}>
-                  SILICONE RINGS
+                  APPAREL
                 </h1>
                 <h5 style={{ textShadow: "2px 2px #000000", color: "#ffff" }}>
-                  Comfortable & Safe Alternative
+                  Complete The Look
                 </h5>
                 <Button
                   style={{
