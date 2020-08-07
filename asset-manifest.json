@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/sa-demo/static/css/main.267f268a.chunk.css",
+    "main.js": "/sa-demo/static/js/main.4e8b4d83.chunk.js",
+    "main.js.map": "/sa-demo/static/js/main.4e8b4d83.chunk.js.map",
+    "runtime-main.js": "/sa-demo/static/js/runtime-main.0b2a4a55.js",
+    "runtime-main.js.map": "/sa-demo/static/js/runtime-main.0b2a4a55.js.map",
+    "static/js/2.a3ab505e.chunk.js": "/sa-demo/static/js/2.a3ab505e.chunk.js",
+    "static/js/2.a3ab505e.chunk.js.map": "/sa-demo/static/js/2.a3ab505e.chunk.js.map",
+    "index.html": "/sa-demo/index.html",
+    "precache-manifest.13ccddfdfa30f8d4e014990b8379d51a.js": "/sa-demo/precache-manifest.13ccddfdfa30f8d4e014990b8379d51a.js",
+    "service-worker.js": "/sa-demo/service-worker.js",
+    "static/css/main.267f268a.chunk.css.map": "/sa-demo/static/css/main.267f268a.chunk.css.map",
+    "static/js/2.a3ab505e.chunk.js.LICENSE.txt": "/sa-demo/static/js/2.a3ab505e.chunk.js.LICENSE.txt",
+    "static/media/SA_Co_Shield-1.png": "/sa-demo/static/media/SA_Co_Shield-1.ff0cb9a3.png",
+    "static/media/apparel.jpg": "/sa-demo/static/media/apparel.90769ea0.jpg",
+    "static/media/armBands.png": "/sa-demo/static/media/armBands.73299802.png",
+    "static/media/armShields.jpg": "/sa-demo/static/media/armShields.10cdc344.jpg",
+    "static/media/coldGear.jpg": "/sa-demo/static/media/coldGear.d1c14235.jpg",
+    "static/media/dailyDeals.jpg": "/sa-demo/static/media/dailyDeals.61f2536a.jpg",
+    "static/media/face.jpg": "/sa-demo/static/media/face.f537774c.jpg",
+    "static/media/faceShields.png": "/sa-demo/static/media/faceShields.e89e3ae7.png",
+    "static/media/headWear.jpg": "/sa-demo/static/media/headWear.541a2b26.jpg",
+    "static/media/headwear.png": "/sa-demo/static/media/headwear.643b4704.png",
+    "static/media/kids.png": "/sa-demo/static/media/kids.f0af8eba.png",
+    "static/media/rings.jpg": "/sa-demo/static/media/rings.6544e88b.jpg",
+    "static/media/shirts.png": "/sa-demo/static/media/shirts.ba8074c2.png",
+    "static/media/strawHats.jpg": "/sa-demo/static/media/strawHats.6ed29477.jpg",
+    "static/media/strawHats.png": "/sa-demo/static/media/strawHats.bf904236.png",
+    "static/media/summer.png": "/sa-demo/static/media/summer.bc79b00e.png",
+    "static/media/swimWear.jpg": "/sa-demo/static/media/swimWear.e05990f5.jpg",
+    "static/media/warmGear.jpg": "/sa-demo/static/media/warmGear.21fd85c5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b2a4a55.js",
+    "static/js/2.a3ab505e.chunk.js",
+    "static/css/main.267f268a.chunk.css",
+    "static/js/main.4e8b4d83.chunk.js"
+  ]
+}
