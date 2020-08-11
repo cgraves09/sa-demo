@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/sa-demo/static/css/main.2c1dcc13.chunk.css",
-    "main.js": "/sa-demo/static/js/main.2e8503c3.chunk.js",
-    "main.js.map": "/sa-demo/static/js/main.2e8503c3.chunk.js.map",
+    "main.js": "/sa-demo/static/js/main.58fb8da3.chunk.js",
+    "main.js.map": "/sa-demo/static/js/main.58fb8da3.chunk.js.map",
     "runtime-main.js": "/sa-demo/static/js/runtime-main.0b2a4a55.js",
     "runtime-main.js.map": "/sa-demo/static/js/runtime-main.0b2a4a55.js.map",
-    "static/js/2.df0c3efe.chunk.js": "/sa-demo/static/js/2.df0c3efe.chunk.js",
-    "static/js/2.df0c3efe.chunk.js.map": "/sa-demo/static/js/2.df0c3efe.chunk.js.map",
+    "static/js/2.53f348ba.chunk.js": "/sa-demo/static/js/2.53f348ba.chunk.js",
+    "static/js/2.53f348ba.chunk.js.map": "/sa-demo/static/js/2.53f348ba.chunk.js.map",
     "index.html": "/sa-demo/index.html",
-    "precache-manifest.b0b4900d8d093d7a5dd2b4a4bd4aa13a.js": "/sa-demo/precache-manifest.b0b4900d8d093d7a5dd2b4a4bd4aa13a.js",
+    "precache-manifest.9ce04f5c00009a2c898a0fcd75e93390.js": "/sa-demo/precache-manifest.9ce04f5c00009a2c898a0fcd75e93390.js",
     "service-worker.js": "/sa-demo/service-worker.js",
     "static/css/main.2c1dcc13.chunk.css.map": "/sa-demo/static/css/main.2c1dcc13.chunk.css.map",
-    "static/js/2.df0c3efe.chunk.js.LICENSE.txt": "/sa-demo/static/js/2.df0c3efe.chunk.js.LICENSE.txt",
+    "static/js/2.53f348ba.chunk.js.LICENSE.txt": "/sa-demo/static/js/2.53f348ba.chunk.js.LICENSE.txt",
     "static/media/SA_Co_Shield-1.png": "/sa-demo/static/media/SA_Co_Shield-1.ff0cb9a3.png",
     "static/media/apparel.jpg": "/sa-demo/static/media/apparel.90769ea0.jpg",
     "static/media/armBands.png": "/sa-demo/static/media/armBands.73299802.png",
@@ -29,12 +29,13 @@
     "static/media/strawHats.png": "/sa-demo/static/media/strawHats.bf904236.png",
     "static/media/summer.png": "/sa-demo/static/media/summer.bc79b00e.png",
     "static/media/swimWear.jpg": "/sa-demo/static/media/swimWear.e05990f5.jpg",
+    "static/media/video.mp4": "/sa-demo/static/media/video.8bf426d6.mp4",
     "static/media/warmGear.jpg": "/sa-demo/static/media/warmGear.21fd85c5.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.0b2a4a55.js",
-    "static/js/2.df0c3efe.chunk.js",
+    "static/js/2.53f348ba.chunk.js",
     "static/css/main.2c1dcc13.chunk.css",
-    "static/js/main.2e8503c3.chunk.js"
+    "static/js/main.58fb8da3.chunk.js"
   ]
 }
